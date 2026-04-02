@@ -47,7 +47,7 @@ def main():
             for shot in shots:
                 if rock.collides_with(shot):
                     log_event("asteroid_shot")
-                    rock.kill()
+                    rock.split()
                     shot.kill()
 
         screen.fill("black")
