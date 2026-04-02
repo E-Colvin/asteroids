@@ -1,2 +1,9 @@
-{"timestamp": "19:56:48.656", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
-{"timestamp": "19:56:49.618", "elapsed_s": 1, "frame": 120, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "20:11:05.535", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 411.2], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "20:11:06.497", "elapsed_s": 1, "frame": 120, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [581.88, 412.21], "vel": [0.0, 0.0], "rad": 20, "rot": 236.1}}
+{"timestamp": "20:11:07.459", "elapsed_s": 2, "frame": 180, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [712.64, 468.08], "vel": [0.0, 0.0], "rad": 20, "rot": 206.7}}
+{"timestamp": "20:11:08.422", "elapsed_s": 3, "frame": 240, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [699.32, 329.24], "vel": [0.0, 0.0], "rad": 20, "rot": -14.7}}
+{"timestamp": "20:11:09.389", "elapsed_s": 4, "frame": 300, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [759.53, 273.16], "vel": [0.0, 0.0], "rad": 20, "rot": 189.0}}
+{"timestamp": "20:11:10.350", "elapsed_s": 5, "frame": 360, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [681.41, 372.72], "vel": [0.0, 0.0], "rad": 20, "rot": 106.2}}
+{"timestamp": "20:11:11.318", "elapsed_s": 6, "frame": 420, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [770.34, 443.52], "vel": [0.0, 0.0], "rad": 20, "rot": -125.7}}
+{"timestamp": "20:11:12.281", "elapsed_s": 7, "frame": 480, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [666.53, 365.5], "vel": [0.0, 0.0], "rad": 20, "rot": -196.5}}
+{"timestamp": "20:11:13.246", "elapsed_s": 8, "frame": 540, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [666.53, 365.5], "vel": [0.0, 0.0], "rad": 20, "rot": -109.8}}
